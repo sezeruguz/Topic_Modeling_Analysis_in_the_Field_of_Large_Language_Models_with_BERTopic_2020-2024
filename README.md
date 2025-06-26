@@ -10,11 +10,13 @@ One of the primary factors behind the success of contemporary artificial intelli
 
 📚 Citation
 
-IEEE Citation:
+IEEE:
 
 S. Uğuz and Ç. N. Tülü, “Topic Modeling Analysis in the Field of Large Language Models with BERTopic (2020–2024),” 2024 Innovations in Intelligent Systems and Applications Conference (ASYU), Ankara, Turkiye, 2024, pp. 1-6, doi: 10.1109/ASYU62119.2024.10757169
 
+
 BibTeX:
+
 @INPROCEEDINGS{10757169,
   author={Uğuz, Sezer and Tülü, Çağatay Neftali},
   booktitle={2024 Innovations in Intelligent Systems and Applications Conference (ASYU)}, 
