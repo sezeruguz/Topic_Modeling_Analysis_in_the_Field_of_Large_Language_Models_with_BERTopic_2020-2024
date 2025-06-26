@@ -3,10 +3,24 @@
 This repository contains the source code and data for the study titled:  
 **“Topic Modeling Analysis in the Field of Large Language Models with BERTopic (2020–2024)”**
 
+---
+
 ## 📄 Abstract
 
 One of the primary factors behind the success of contemporary artificial intelligence backed applications is the Large Language Models (LLMs). Remarkably, this concept that was virtually unknown just a few years ago has now become increasingly popular. Whereas initial Language Models (LMs) were updated and enhanced every few years, but we now witness new versions with new features and advanced capabilities are being released within mere months. This widespread adoption LLM's in daily life has also sparked our curiosity about the direction of academic research on this topic. In this study, academic papers related to LLM between 2020 and 2024 (until first quarter of 2024) were analyzed with topic modelling technique. The data used in this study were collected from the Scopus database and topic modeling analysis was performed using BERTopic. According to the analysis results obtained, it can be stated that the research topics named Large Language Models (LLMs), ChatGPT in Medicine, Sentiment Bias, Code Generation, Visual Language Models, and System Requirements for LLMs are quite remarkable. It has been revealed that the analysis results obtained and the developments in academic and professional business life are interrelated. Especially today, with the increasing use of ChatGPT, it is known that specialization has been made in this field in order to ensure better execution of queries and a new profession called Prompt Engineering has emerged.
 
+---
+
+## 📂 Data & Documentation Access
+
+The dataset and additional documentation used in this study are available via the following Google Drive link:
+
+🔗 **[Access Data and Documents](https://drive.google.com/drive/folders/1iV0-gWyfRw2AAtAmNdjmsUHZhOEGUlCw?usp=sharing)**
+
+> *Note: Please make sure you are signed in to a Google account with access permission.*  
+> *If you use this dataset in your study, kindly cite the original paper.*
+
+---
 
 ## 📚 Citation
 
