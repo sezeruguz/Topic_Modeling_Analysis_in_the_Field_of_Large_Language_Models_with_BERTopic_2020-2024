@@ -17,6 +17,7 @@ S. Uğuz and Ç. N. Tülü, “Topic Modeling Analysis in the Field of Large Lan
 
 ### BibTeX:
 
+```
 @INPROCEEDINGS{10757169,
   author={Uğuz, Sezer and Tülü, Çağatay Neftali},
   booktitle={2024 Innovations in Intelligent Systems and Applications Conference (ASYU)}, 
@@ -26,3 +27,4 @@ S. Uğuz and Ç. N. Tülü, “Topic Modeling Analysis in the Field of Large Lan
   keywords={Analytical models;Visualization;Technological innovation;Databases;Large language models;Natural languages;Chatbots;Data models;Prompt engineering;Intelligent systems;natural language processing;large language models;topic modeling;bertopic;prompt engineering},
   doi={10.1109/ASYU62119.2024.10757169}
 }
+```
